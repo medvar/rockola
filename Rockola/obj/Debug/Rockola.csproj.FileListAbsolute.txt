@@ -1,0 +1,40 @@
+c:\users\medvar\documents\visual studio 2012\Projects\Rockola\Rockola\bin\Debug\Rockola.exe.config
+c:\users\medvar\documents\visual studio 2012\Projects\Rockola\Rockola\bin\Debug\Rockola.exe
+c:\users\medvar\documents\visual studio 2012\Projects\Rockola\Rockola\bin\Debug\Rockola.pdb
+c:\users\medvar\documents\visual studio 2012\Projects\Rockola\Rockola\obj\Debug\Rockola.csprojResolveAssemblyReference.cache
+c:\users\medvar\documents\visual studio 2012\Projects\Rockola\Rockola\obj\Debug\Rockola.Form1.resources
+c:\users\medvar\documents\visual studio 2012\Projects\Rockola\Rockola\obj\Debug\Rockola.Properties.Resources.resources
+c:\users\medvar\documents\visual studio 2012\Projects\Rockola\Rockola\obj\Debug\Rockola.csproj.GenerateResource.Cache
+c:\users\medvar\documents\visual studio 2012\Projects\Rockola\Rockola\obj\Debug\Rockola.exe
+c:\users\medvar\documents\visual studio 2012\Projects\Rockola\Rockola\obj\Debug\Rockola.pdb
+c:\users\medvar\documents\visual studio 2012\Projects\Rockola\Rockola\obj\Debug\Rockola.home.resources
+c:\users\medvar\documents\visual studio 2012\Projects\Rockola\Rockola\obj\Debug\Interop.WMPLib.dll
+c:\users\medvar\documents\visual studio 2012\Projects\Rockola\Rockola\obj\Debug\AxInterop.WMPLib.dll
+c:\users\medvar\documents\visual studio 2012\Projects\Rockola\Rockola\obj\Debug\Rockola.csproj.ResolveComReference.cache
+c:\users\medvar\documents\visual studio 2012\Projects\Rockola\Rockola\obj\Debug\Rockola.buscar.resources
+c:\users\medvar\documents\visual studio 2012\Projects\Rockola\Rockola\obj\Debug\Rockola.Reproduciendo.resources
+c:\users\medvar\documents\visual studio 2012\Projects\Rockola\Rockola\bin\Debug\Interop.WMPLib.dll
+c:\users\medvar\documents\visual studio 2012\Projects\Rockola\Rockola\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Medvar\Documents\Visual Studio 2012\Projects\listo\Rockola\Rockola\bin\Debug\Rockola.exe.config
+C:\Users\Medvar\Documents\Visual Studio 2012\Projects\listo\Rockola\Rockola\obj\Debug\Interop.WMPLib.dll
+C:\Users\Medvar\Documents\Visual Studio 2012\Projects\listo\Rockola\Rockola\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Medvar\Documents\Visual Studio 2012\Projects\listo\Rockola\Rockola\obj\Debug\Rockola.csproj.ResolveComReference.cache
+C:\Users\Medvar\Documents\Visual Studio 2012\Projects\listo\Rockola\Rockola\obj\Debug\Rockola.exe
+C:\Users\Medvar\Documents\Visual Studio 2012\Projects\listo\Rockola\Rockola\obj\Debug\Rockola.pdb
+F:\med\Projects\listo\Rockola\Rockola\bin\Debug\Rockola.exe.config
+F:\med\Projects\listo\Rockola\Rockola\obj\Debug\Interop.WMPLib.dll
+F:\med\Projects\listo\Rockola\Rockola\obj\Debug\AxInterop.WMPLib.dll
+F:\med\Projects\listo\Rockola\Rockola\obj\Debug\Rockola.csproj.ResolveComReference.cache
+F:\med\Projects\listo\Rockola\Rockola\obj\Debug\Rockola.exe
+F:\med\Projects\listo\Rockola\Rockola\obj\Debug\Rockola.pdb
+F:\med\Projects\listo\Rockola\Rockola\bin\Debug\Rockola.exe
+F:\med\Projects\listo\Rockola\Rockola\bin\Debug\Rockola.pdb
+F:\med\Projects\listo\Rockola\Rockola\bin\Debug\Interop.WMPLib.dll
+F:\med\Projects\listo\Rockola\Rockola\bin\Debug\AxInterop.WMPLib.dll
+F:\med\Projects\listo\Rockola\Rockola\obj\Debug\Rockola.csprojResolveAssemblyReference.cache
+F:\med\Projects\listo\Rockola\Rockola\obj\Debug\Rockola.buscar.resources
+F:\med\Projects\listo\Rockola\Rockola\obj\Debug\Rockola.Form1.resources
+F:\med\Projects\listo\Rockola\Rockola\obj\Debug\Rockola.home.resources
+F:\med\Projects\listo\Rockola\Rockola\obj\Debug\Rockola.Properties.Resources.resources
+F:\med\Projects\listo\Rockola\Rockola\obj\Debug\Rockola.Reproduciendo.resources
+F:\med\Projects\listo\Rockola\Rockola\obj\Debug\Rockola.csproj.GenerateResource.Cache
